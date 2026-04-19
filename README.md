@@ -13,22 +13,30 @@ Visual state transitions on canvas
 Stack visualization for PDA
 Add/remove states and transitions dynamically
 Export automata diagram as an image
+
+
 🛠️ Tech Stack
 HTML5, CSS3
 Vanilla JavaScript
 Canvas API for visualization
+
 ▶️ How to Use
 Open index.html in your browser
 Select automata type
 Add states and transitions
 Enter input string
 Click Run Animation or step through manually
+
+
 📸 Output
 Real-time animated simulation
 Acceptance/Rejection status
 Downloadable diagram
+
+
 📂 Project Structure
 index.html   # Main application
+
 📌 Notes
 No external libraries required
 Works entirely in-browser
